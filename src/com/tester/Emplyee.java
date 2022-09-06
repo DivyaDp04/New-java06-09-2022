@@ -9,5 +9,10 @@ public class Emplyee {
 			System.out.println(i);
 		}
 		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 }
